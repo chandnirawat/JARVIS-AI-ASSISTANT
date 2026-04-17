@@ -1,2 +1,3 @@
-# ai-assistant
-this is my first project
+# AI-Assistant
+This is my first project
+
