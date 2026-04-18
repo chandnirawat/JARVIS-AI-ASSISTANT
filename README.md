@@ -1,4 +1,4 @@
-# jarvis ai
+# Jarvis AI
 
 This is my first project
 <br>
